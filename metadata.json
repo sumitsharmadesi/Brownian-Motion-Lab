@@ -1,0 +1,6 @@
+{
+  "name": "Brownian Motion Lab",
+  "description": "Interactive virtual physics laboratory simulating 2D Brownian motion with realistic thermal collisions, real-time MSD graphs, parameter controls, and complete Android Studio project code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

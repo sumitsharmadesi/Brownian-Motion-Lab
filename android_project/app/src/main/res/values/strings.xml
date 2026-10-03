@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brownian Motion Lab</string>
+    <string name="app_subtitle">Virtual Physics Experiment</string>
+    <string name="start">Start</string>
+    <string name="running">Running</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+</resources>
